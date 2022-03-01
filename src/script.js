@@ -89,6 +89,7 @@ function editClicked(id)
                 document.getElementById("input-field").innerHTML = html;
                 break;
         }
+        i--;
     }
 }
 
